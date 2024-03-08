@@ -59,7 +59,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For inquiries or feedback, please contact [Nikhil Kumar](mailto:thenikhilkumar1@gmail.com).
-
----
-
-Feel free to customize this README template to suit your project's specific requirements and details. Include relevant information about your model, its features, usage instructions, dataset, licensing, and contact details.
