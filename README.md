@@ -2,7 +2,7 @@ Certainly! Below is a suggested README file content for your Brain Tumor Detecto
 
 ---
 
-# Brain Tumor Detector AI Model
+# NeuroScan - AI Brain Tumor Detector
 
 ## Overview
 
