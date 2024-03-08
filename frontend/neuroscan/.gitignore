@@ -1,2 +1,4 @@
 node_modules
-model
+model/model.py
+model/brain_tumor_model.json
+model/dataset
