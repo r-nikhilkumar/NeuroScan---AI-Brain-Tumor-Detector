@@ -24,9 +24,9 @@ model = load_model('C:\\Users\\theni\\Desktop\\AI\\backend\\brain_tumor_detector
 # Load and preprocess the new image
 def preprocess_image(image_path):
     img = cv2.imread(image_path)
-    print("img-> ",img)
+    # print("img-> ",img)
     img = cv2.resize(img, (128, 128))  # Assuming your model expects input size of 128x128
-    print("img-> ",img)
+    # print("img-> ",img)
     img = img / 255.0  # Normalize pixel values to [0, 1]
     return np.expand_dims(img, axis=0)  # Add batch dimension
 
